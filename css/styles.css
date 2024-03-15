@@ -859,6 +859,9 @@ NAVY BLUE */
   flex-direction: column;
   margin-bottom: 8px;
 }
+.modal-field-last {
+  margin-bottom: 16px;
+}
 .modal-comment-inpute {
   width: 100%;
   height: 120px;
@@ -888,7 +891,7 @@ NAVY BLUE */
   letter-spacing: 0.01em;
   color: var(--icon-footer-still);
   margin-bottom: 24px;
-  padding-top: 8px;
+  /* margin-top: 8px; */
 }
 .modal-label-check::before {
   display: block;
